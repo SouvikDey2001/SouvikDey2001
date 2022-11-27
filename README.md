@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Souvik Dey, a Computer Science Engineering Student.
-- 👀 I’m interested in Web Dvelopment and Designing, UI/UX Design. Digital Art and much more...
-- 🌱 I’m currently learning Web Develpment
-- 💞️ I’m looking to collaborate on Web Development.
+- 👋 Hi, I’m Souvik Dey, a Final Year Computer Science Engineering Student.
+- 👀 I Have interest in Product &  UI/UX Design. Digital Art and much more...
+- 🌱 I’m currently exploring UI/UX Domain, You can check out my designs @ https://www.behance.net/Souvik-Dey
+- 💞️ I’m looking to collaborate on UI/UX Design
 - 📫 How to reach me on my Email ID: coolsouvikdey2001@gmail.com
 
 <!---
